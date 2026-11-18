@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-11-17T09:35:32.004698",
+    "company": "Wayve",
+    "role": "Senior Machine Learning Engineer, Search & Index",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4487139229/",
+    "status": "Applied"
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-11-17T09:39:50.369581",
+    "company": "Everpure",
+    "role": "AI Enablement Engineer",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4484563935/",
+    "status": "Applied"
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-11-17T09:46:11.339718",
+    "company": "Retell",
+    "role": "Founders Initiatives, AI Agents",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4427168808/",
+    "status": "Applied"
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-11-17T09:47:30.350330",
+    "company": "Robots & Pencils",
+    "role": "Staff Engineer / AI Builder - Mountain View",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4485790307/",
+    "status": "Applied"
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-11-17T09:49:47.963593",
+    "company": "Crusoe",
+    "role": "Senior ML Engineer, Developer Relations Engineering",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4486463774/",
+    "status": "Applied"
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-11-17T09:53:42.240860",
+    "company": "Wand AI",
+    "role": "Forward Deployed Engineer",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4464977553/",
+    "status": "Applied"
+  },
+  {
+    "id": 7,
+    "timestamp": "2026-11-17T09:54:19.097717",
+    "company": "NewsBreak",
+    "role": "AI Engineer, Agent Platform",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4458490049/",
+    "status": "Applied"
+  },
+  {
+    "id": 8,
+    "timestamp": "2026-11-17T09:55:11.278190",
+    "company": "Formulate Labs",
+    "role": "AI/ML Engineer",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4474886838/",
+    "status": "Applied"
+  },
+  {
+    "id": 9,
+    "timestamp": "2026-11-17T09:57:12.582135",
+    "company": "Powerline",
+    "role": "AI Engineer",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4439393892/",
+    "status": "Applied"
+  },
+  {
+    "id": 10,
+    "timestamp": "2026-11-17T09:58:14.312576",
+    "company": "Pathway",
+    "role": "Machine Learning DevOps - Cloud and Compute Cluster - R&D Support",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4422972711/",
+    "status": "Applied"
+  },
+  {
+    "id": 11,
+    "timestamp": "2026-11-17T09:59:04.800160",
+    "company": "Wayve",
+    "role": "Senior Machine Learning Engineer, Driving Product",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4487131361/",
+    "status": "Applied"
+  }
+]

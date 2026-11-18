@@ -1,0 +1,18 @@
+# Protect API Keys & Secrets (NEVER push these to GitHub!)
+.env
+credentials.json
+data/gmail_token.json
+data/chrome_bot_profile/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Temporary debug screenshots & OS files
+.DS_Store
+whatsapp_qr_scan_me.png
+wa_debug*.png
+*.log
+server.pid

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-11-16T11:08:12.983143",
+    "company": "Avoma",
+    "role": "ML Engineer - NLP",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4433487729/",
+    "status": "Applied"
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-11-16T11:09:36.004045",
+    "company": "Ema",
+    "role": "Software Engineer, Machine Learning",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4454666064/",
+    "status": "Applied"
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-11-16T11:09:53.673316",
+    "company": "Powerline",
+    "role": "AI Engineer",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4439393892/",
+    "status": "Applied"
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-11-16T11:10:11.356575",
+    "company": "Voltai",
+    "role": "Machine Learning Engineer",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4318516263/",
+    "status": "Applied"
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-11-16T11:12:44.147156",
+    "company": "Wayve",
+    "role": "Senior Machine Learning Engineer, Search & Index",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4487139229/",
+    "status": "Applied"
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-11-16T11:16:20.206652",
+    "company": "Everpure",
+    "role": "AI Enablement Engineer",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4484563935/",
+    "status": "Applied"
+  },
+  {
+    "id": 7,
+    "timestamp": "2026-11-16T11:18:43.201808",
+    "company": "Formulate Labs",
+    "role": "AI/ML Engineer",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4474886838/",
+    "status": "Applied"
+  },
+  {
+    "id": 8,
+    "timestamp": "2026-11-16T11:23:41.451606",
+    "company": "Retell",
+    "role": "Founders Initiatives, AI Agents",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4427168808/",
+    "status": "Applied"
+  },
+  {
+    "id": 9,
+    "timestamp": "2026-11-16T11:25:49.136212",
+    "company": "Vantaca",
+    "role": "Senior AI Engineer, Evaluation & Optimization",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4480825227/",
+    "status": "Applied"
+  },
+  {
+    "id": 10,
+    "timestamp": "2026-11-16T11:27:31.305632",
+    "company": "Crusoe",
+    "role": "Senior ML Engineer, Developer Relations Engineering",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4486463774/",
+    "status": "Applied"
+  },
+  {
+    "id": 11,
+    "timestamp": "2026-11-16T11:28:35.314251",
+    "company": "Hippocratic AI",
+    "role": "Forward Deployed Engineer (Mid/Senior)",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4427577794/",
+    "status": "Applied"
+  },
+  {
+    "id": 12,
+    "timestamp": "2026-11-16T11:35:09.995418",
+    "company": "Skylo",
+    "role": "Applied AI Engineer, Agentic Systems & Identity",
+    "platform": "LinkedIn (Company Form)",
+    "url": "https://www.linkedin.com/jobs/view/4484762372/",
+    "status": "Applied"
+  }
+]
